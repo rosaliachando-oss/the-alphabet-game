@@ -1,6 +1,6 @@
 //librería propia de definciones de diccionario en inglés
 var questions = [
-    { letter: "a", answer: "anagram", status: 0, question: "With the letter A.\nA word or phrase made by using the letters of another word or phrase in a different order."},
+    { letter: "a", answer: "anagram", status: 0, question: "With letter A.\nI'm just trying to see if it works."},
     { letter: "b", answer: "blind", status: 0, question: "With the letter B.\nSomeone who is unable to see."},
     { letter: "c", answer: "chaos", status: 0, question: "With the letter C.\nA state of total confusion with no order."},
     { letter: "d", answer: "dialysis", status: 0, question: "With the letter D.\nA process of separating substances from liquid by putting them through a thin piece of skin-like material, especially to make pure the blood of people whose kidneys are not working correctly."},
